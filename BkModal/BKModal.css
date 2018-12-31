@@ -1,0 +1,16 @@
+.bk-modal-thumbs-up{
+  font-size: 24px;
+  margin: 16px 32px 0px 0px;
+}
+
+.bk-modal-thumbs-down {
+  font-size: 24px;
+  margin: 16px 0px 16px 0px;
+}
+.bk-modal__image {
+  width: 100%;
+}
+.bk-modal__carousel-image {
+  height: 150px;
+  object-fit: cover;
+}
